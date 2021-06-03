@@ -1,4 +1,3 @@
-
 class View:
 
     def select(self, object):
